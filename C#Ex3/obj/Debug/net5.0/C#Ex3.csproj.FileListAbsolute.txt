@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\bin\Debug\net5.0\C#Ex3.exe
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\bin\Debug\net5.0\C#Ex3.deps.json
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\bin\Debug\net5.0\C#Ex3.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\bin\Debug\net5.0\C#Ex3.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\bin\Debug\net5.0\C#Ex3.dll
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\bin\Debug\net5.0\ref\C#Ex3.dll
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\bin\Debug\net5.0\C#Ex3.pdb
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.dll
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\ref\C#Ex3.dll
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.pdb
+C:\Users\dev\Desktop\Exercicos 05\C#Ex3\obj\Debug\net5.0\C#Ex3.genruntimeconfig.cache
